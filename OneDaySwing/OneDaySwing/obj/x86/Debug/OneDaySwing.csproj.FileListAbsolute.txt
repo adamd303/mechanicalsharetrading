@@ -1,0 +1,7 @@
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\bin\Debug\OneDaySwing.exe.config
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\bin\Debug\OneDaySwing.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\bin\Debug\OneDaySwing.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\obj\x86\Debug\OneDaySwing.csproj.CoreCompileInputs.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\obj\x86\Debug\OneDaySwing.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\obj\x86\Debug\OneDaySwing.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OneDaySwing\OneDaySwing\obj\x86\Debug\OneDaySwing.csprojAssemblyReference.cache

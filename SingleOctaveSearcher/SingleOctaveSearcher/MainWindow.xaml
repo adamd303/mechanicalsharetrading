@@ -1,0 +1,60 @@
+﻿<Window x:Class="SingleOctaveSearcher.MainWindow"
+	xmlns="http://schemas.microsoft.com/netfx/2007/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:main="clr-namespace:SingleOctaveSearcher"
+	Title="Single Octave Searcher" Height="190" Width="660"
+	>
+    <Grid Name="_inputWindow" Height="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="7" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11" />
+            <ColumnDefinition Width="210" />
+            <ColumnDefinition Width="420" />
+            <ColumnDefinition Width="11*" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="1" Grid.Column="1" 
+		       HorizontalAlignment="Left"
+	           VerticalAlignment="Center"
+		       Content="Length"
+	           HorizontalContentAlignment="Left" Width="210"/>
+        <TextBox Name="_lengthValue" Grid.Row="1" Grid.Column="2" Width ="100" 
+		       HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Grid.Row="1" Grid.Column="1" 
+		       HorizontalAlignment="Left"
+	           VerticalAlignment="Center"
+		       Content="Length"
+	           HorizontalContentAlignment="Left" Width="210"/>
+        <TextBox Name="_repeatsValue" Grid.Row="2" Grid.Column="2" Width ="100" 
+		       HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Grid.Row="2" Grid.Column="1" 
+		       HorizontalAlignment="Left"
+	           VerticalAlignment="Center"
+		       Content="Repeats"
+	           HorizontalContentAlignment="Left" Width="210"/>
+        <Label Grid.Row="3" Grid.Column="1" 
+		       HorizontalAlignment="Left" VerticalAlignment="Center"
+	           Content="Orb"
+	           HorizontalContentAlignment="Left" Width="210"/>
+        <TextBox Name="_orbValue" Grid.Row="3" Grid.Column="2" Width ="100" 
+		       HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Name="_inputFileLabel" Grid.Row="4" Grid.Column="1" 
+		       HorizontalAlignment="Left" VerticalAlignment="Center"
+	           Content="Input File"
+	           HorizontalContentAlignment="Left" Width="120"/>
+        <main:FileSelector x:Name="_inputFileSelector" Grid.Row="4" Grid.Column="2" 
+			   Width="410" HorizontalAlignment="Left" Mode="Open" MaxDisplayLength="50" />
+        <Button Name="_calculate" Grid.Row="5" Grid.Column="2" Width="100" 
+			   HorizontalAlignment="Left" VerticalAlignment="Center" 
+	           Content="Calculate" 
+	           VerticalContentAlignment="Center"
+	           Click="btnCalculate_Click"/>
+    </Grid>
+</Window>

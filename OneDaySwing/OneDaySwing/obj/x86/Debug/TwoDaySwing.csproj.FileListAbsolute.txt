@@ -1,0 +1,19 @@
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe.config
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.pdb
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.exe
+c:\users\adam\documents\visual studio 2010\Projects\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.pdb
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe.config
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.pdb
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.exe
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.pdb
+C:\Users\Adam\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csprojResolveAssemblyReference.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe.config
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csprojAssemblyReference.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csproj.CoreCompileInputs.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.pdb

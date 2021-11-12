@@ -1,0 +1,8 @@
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\obj\Release\Adam.Trading.Mechanical.Model.Tests.g.resources
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\bin\Release\Adam.Trading.Mechanical.Model.Tests.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\bin\Release\Adam.Trading.Mechanical.Model.Tests.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\bin\Release\Adam.Trading.Mechanical.Model.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\bin\Release\Adam.Trading.Mechanical.Model.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\obj\Release\Adam.Trading.Mechanical.Model.Tests.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\obj\Release\Adam.Trading.Mechanical.Model.Tests.pdb

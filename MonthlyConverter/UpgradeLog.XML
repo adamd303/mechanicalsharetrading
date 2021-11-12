@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MonthlyConverter">
+</Property><Property Name="Solution File" Value="C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter.suo">
+</Property><Property Name="Date" Value="Friday, 23 November 2012">
+</Property><Property Name="Time" Value="11:54 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MonthlyConverter.sln" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MonthlyConverter.suo" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter.suo">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\MonthlyConverter.csproj" Description="Project file successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\MonthlyConverter.csproj">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\App.xaml.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Window1.xaml.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\FileSelector.xaml.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\FileSelector.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\App.xaml" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\App.xaml">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\FileSelector.xaml" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\FileSelector.xaml">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\Window1.xaml" Description="File successfully backed up as C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\Backup\MonthlyConverter\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\MonthlyConverter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MonthlyConverter" Source="MonthlyConverter\MonthlyConverter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MonthlyConverter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MonthlyConverter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MonthlyConverter" Source="MonthlyConverter\MonthlyConverter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bb171ff1-13fb-4974-996e-2063db515459" name="Adam@ADAM-PC 2012-04-15 16:49:49" runUser="Adam-PC\Adam" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="TestSettings1" id="ea5d6c33-ca76-42be-aaf2-506f708a8787">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="Adam_ADAM-PC 2012-04-15 16_49_49">
+      <DeploymentItem filename="C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\bin\x86\Debug\Adam.Trading.Mechanical.Model.dll" />
+      <DeploymentItem filename="MechanicalTrading\Model.Tests\Data\GC----C.csv" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-15T16:49:49.2982964+10:00" queuing="2012-04-15T16:49:50.8923876+10:00" start="2012-04-15T16:49:50.9363901+10:00" finish="2012-04-15T16:49:51.6374302+10:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ADAM-PC" outcome="Warning" timestamp="2012-04-15T16:49:50.6593742+10:00">
+        <Text>Warning: Test Run deployment issue: Failed to get the file for deployment item 'GC----C.csv' specified by the test 'Adam.Trading.Mechanical.Model.Tests.SupportResistanceCalculatorTests.Seykota140_20Test': System.IO.FileNotFoundException: Could not find file 'C:\Users\Adam\MechanicalShareTrading\GC----C.csv'.</Text>
+        <Exception>System.IO.FileNotFoundException: Could not find file 'C:\Users\Adam\MechanicalShareTrading\GC----C.csv'.
+File name: 'C:\Users\Adam\MechanicalShareTrading\GC----C.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.GetAttributes(String path)
+   at Microsoft.VisualStudio.TestTools.Common.SingleFileProvider.GetFilePaths()
+   at Microsoft.VisualStudio.TestTools.TestManagement.DeploymentCoverageItem.GetFiles(TestRunConfiguration runConfig)
+   at Microsoft.VisualStudio.TestTools.TestManagement.DeploymentManager.DoDeployment(TestRun run, FileCopyService fileCopyService)</Exception>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Seykota140_20Test" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\model.tests\bin\x86\debug\adam.trading.mechanical.model.tests.dll" id="b21a49f0-d04f-cacf-eb75-b8257126d6c9">
+      <DeploymentItems>
+        <DeploymentItem filename="GC----C.csv" />
+      </DeploymentItems>
+      <Execution id="79172792-1508-4a2e-b7da-2adb593ea9dc" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/Model.Tests/bin/x86/Debug/Adam.Trading.Mechanical.Model.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.Model.Tests.SupportResistanceCalculatorTests, Adam.Trading.Mechanical.Model.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Seykota140_20Test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b21a49f0-d04f-cacf-eb75-b8257126d6c9" executionId="79172792-1508-4a2e-b7da-2adb593ea9dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="79172792-1508-4a2e-b7da-2adb593ea9dc" testId="b21a49f0-d04f-cacf-eb75-b8257126d6c9" testName="Seykota140_20Test" computerName="ADAM-PC" duration="00:00:00.3266333" startTime="2012-04-15T16:49:50.9683919+10:00" endTime="2012-04-15T16:49:51.5754266+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79172792-1508-4a2e-b7da-2adb593ea9dc">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;False&gt;. Actual:&lt;True&gt;. </Message>
+          <StackTrace>   at Adam.Trading.Mechanical.Model.Tests.SupportResistanceCalculatorTests.Seykota140_20Test() in C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model.Tests\SupportResistanceCalculatorTests.cs:line 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

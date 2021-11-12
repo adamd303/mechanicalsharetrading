@@ -1,0 +1,51 @@
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.pdb
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.baml
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\App.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.cache
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.lref
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.baml
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.g.resources
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.pdb
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\ResGen.read.1.tlog
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\WeeklyConverter\WeeklyConverter\obj\Debug\ResGen.write.1.tlog
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.exe
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.pdb
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.exe
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.pdb
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.baml
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.g.cs
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.g.cs
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\App.g.cs
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.cache
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.lref
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.baml
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.g.resources
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.Properties.Resources.resources
+C:\Users\Adam\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.csproj.GenerateResource.Cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.exe.config
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\bin\Debug\WeeklyConverter.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.csprojAssemblyReference.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.baml
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\FileSelector.g.cs
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.g.cs
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\App.g.cs
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter_MarkupCompile.lref
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\Window1.baml
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.g.resources
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.Properties.Resources.resources
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.csproj.GenerateResource.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.csproj.CoreCompileInputs.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\WeeklyConverter\WeeklyConverter\obj\Debug\WeeklyConverter.pdb

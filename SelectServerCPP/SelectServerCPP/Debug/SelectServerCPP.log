@@ -1,0 +1,15 @@
+﻿Build started 13/02/2015 9:13:59 PM.
+     1>Project "C:\Users\Adam\MechanicalShareTrading\SelectServerCPP\SelectServerCPP\SelectServerCPP.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SelectServerCPP.cpp stdafx.cpp
+         stdafx.cpp
+         SelectServerCPP.cpp
+     1>c:\users\adam\mechanicalsharetrading\selectservercpp\selectservercpp\selectservercpp.cpp(14): warning C4003: not enough actual parameters for macro 'MAKEWORD'
+     1>c:\users\adam\mechanicalsharetrading\selectservercpp\selectservercpp\selectservercpp.cpp(14): error C2059: syntax error : ')'
+     1>c:\users\adam\mechanicalsharetrading\selectservercpp\selectservercpp\selectservercpp.cpp(15): error C2143: syntax error : missing ';' before '{'
+         Generating Code...
+     1>Done Building Project "C:\Users\Adam\MechanicalShareTrading\SelectServerCPP\SelectServerCPP\SelectServerCPP.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.09

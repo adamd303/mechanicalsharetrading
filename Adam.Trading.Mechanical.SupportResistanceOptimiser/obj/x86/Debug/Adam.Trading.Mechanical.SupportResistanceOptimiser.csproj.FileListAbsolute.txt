@@ -1,0 +1,9 @@
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Data\GC----C.csv
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.exe.config
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.exe
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Adam.Trading.Mechanical.Model.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\bin\Debug\Adam.Trading.Mechanical.Model.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\obj\x86\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.exe
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\obj\x86\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.SupportResistanceOptimiser\obj\x86\Debug\Adam.Trading.Mechanical.SupportResistanceOptimiser.csprojResolveAssemblyReference.cache

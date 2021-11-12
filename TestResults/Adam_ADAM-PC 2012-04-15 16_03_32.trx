@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a20b37e1-12c8-43aa-9dc0-39043a1a57b6" name="Adam@ADAM-PC 2012-04-15 16:03:32" runUser="Adam-PC\Adam" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="6c1c4bf6-d0d3-44dd-ad23-da750647fd39">
+    <Deployment runDeploymentRoot="Adam_ADAM-PC 2012-04-15 16_03_32">
+      <DeploymentItem filename="C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\bin\x86\Debug\Adam.Trading.Mechanical.Model.dll" />
+      <DeploymentItem filename="C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.ViewModel.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-15T16:03:32.0254455+10:00" queuing="2012-04-15T16:03:35.2796316+10:00" start="2012-04-15T16:03:35.4116391+10:00" finish="2012-04-15T16:03:54.6407390+10:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="9" executed="4" passed="3" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="5" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ADAM-PC" outcome="Warning" timestamp="2012-04-15T16:03:34.1215654+10:00">
+        <Text>Warning: Test Run deployment issue: Failed to get the file for deployment item 'Adam.Trading.Mechanical.Model.Tests\GC----C.csv' specified by the test 'Adam.Trading.Mechanical.Model.Tests.SupportResistanceCalculatorTests.Seykota140_20Test': System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.Model.Tests\GC----C.csv'.</Text>
+        <Exception>System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.Model.Tests\GC----C.csv'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.GetAttributes(String path)
+   at Microsoft.VisualStudio.TestTools.Common.SingleFileProvider.GetFilePaths()
+   at Microsoft.VisualStudio.TestTools.TestManagement.DeploymentCoverageItem.GetFiles(TestRunConfiguration runConfig)
+   at Microsoft.VisualStudio.TestTools.TestManagement.DeploymentManager.DoDeployment(TestRun run, FileCopyService fileCopyService)</Exception>
+      </RunInfo>
+      <RunInfo computerName="ADAM-PC" outcome="Error" timestamp="2012-04-15T16:03:54.6387389+10:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAdditionCommandDisabled_WithInvalidFirstNumber" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="f038c242-0a70-f5f4-65dc-ba93955f2451">
+      <Execution id="8ecf8eb5-6c83-4694-ac2e-bd09cbaff06d" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommandDisabled_WithInvalidFirstNumber" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommandEnabled_WithValidNegativeValues" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="b52d8f4e-6f0d-1321-ff8a-7a39a5429af3">
+      <Execution id="455a90d0-bcff-46e1-aab6-11f87087ed3f" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommandEnabled_WithValidNegativeValues" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommandDisabled_WithInvalidSecondNumber" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="ba59234d-30eb-5b19-7baa-85a1f028d6a4">
+      <Execution id="6fa8e956-b671-4fc3-943b-b2f258da1f75" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommandDisabled_WithInvalidSecondNumber" />
+    </UnitTest>
+    <UnitTest name="Seykota140_20Test" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\model.tests\bin\x86\debug\adam.trading.mechanical.model.tests.dll" id="b21a49f0-d04f-cacf-eb75-b8257126d6c9">
+      <DeploymentItems>
+        <DeploymentItem filename="Adam.Trading.Mechanical.Model.Tests\GC----C.csv" />
+      </DeploymentItems>
+      <Execution id="806a34b5-a11d-4189-b6f1-ea9c5af3dd39" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/Model.Tests/bin/x86/Debug/Adam.Trading.Mechanical.Model.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.Model.Tests.SupportResistanceCalculatorTests, Adam.Trading.Mechanical.Model.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Seykota140_20Test" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommand" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="24f9e34f-d056-2721-ab8a-4c68691c1846">
+      <Execution id="831e1e53-8063-4714-9f50-d50312772bef" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommand" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommand_WithBoundaries" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="503c4091-9ed5-3dec-8e98-ede792f25745">
+      <Execution id="39125051-2e91-47c0-986d-f8cf312daa5c" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommand_WithBoundaries" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommandDisabled_WithInvalidNumbers" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="02bc90d6-6fe2-296a-5715-ccf1e3538dc8">
+      <Execution id="e4c5038c-4bcf-4da8-8404-f8e10b715d65" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommandDisabled_WithInvalidNumbers" />
+    </UnitTest>
+    <UnitTest name="TestAdditionCommandEnabled_WithValidPositiveValues" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="138bd233-f409-afb6-2c2f-d62a1e0fccef">
+      <Execution id="11f68e49-52f8-4e1b-91ee-6966f091e744" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionCommandEnabled_WithValidPositiveValues" />
+    </UnitTest>
+    <UnitTest name="TestConstruction_WithoutCalculator" storage="c:\users\adam\mechanicalsharetrading\mechanicaltrading\viewmodel.tests\bin\x86\debug\adam.trading.mechanical.viewmodel.tests.dll" id="2dbf79d8-7244-9436-4250-20c8a1be489b">
+      <Execution id="ce432930-c20e-4841-99fb-52c3b81e6b6d" />
+      <TestMethod codeBase="C:/Users/Adam/MechanicalShareTrading/MechanicalTrading/ViewModel.Tests/bin/x86/Debug/Adam.Trading.Mechanical.ViewModel.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Adam.Trading.Mechanical.ViewModel.Tests.CalculatorViewModelTests, Adam.Trading.Mechanical.ViewModel.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestConstruction_WithoutCalculator" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02bc90d6-6fe2-296a-5715-ccf1e3538dc8" executionId="e4c5038c-4bcf-4da8-8404-f8e10b715d65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="138bd233-f409-afb6-2c2f-d62a1e0fccef" executionId="11f68e49-52f8-4e1b-91ee-6966f091e744" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="24f9e34f-d056-2721-ab8a-4c68691c1846" executionId="831e1e53-8063-4714-9f50-d50312772bef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2dbf79d8-7244-9436-4250-20c8a1be489b" executionId="ce432930-c20e-4841-99fb-52c3b81e6b6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="503c4091-9ed5-3dec-8e98-ede792f25745" executionId="39125051-2e91-47c0-986d-f8cf312daa5c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b21a49f0-d04f-cacf-eb75-b8257126d6c9" executionId="806a34b5-a11d-4189-b6f1-ea9c5af3dd39" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b52d8f4e-6f0d-1321-ff8a-7a39a5429af3" executionId="455a90d0-bcff-46e1-aab6-11f87087ed3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba59234d-30eb-5b19-7baa-85a1f028d6a4" executionId="6fa8e956-b671-4fc3-943b-b2f258da1f75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f038c242-0a70-f5f4-65dc-ba93955f2451" executionId="8ecf8eb5-6c83-4694-ac2e-bd09cbaff06d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e4c5038c-4bcf-4da8-8404-f8e10b715d65" testId="02bc90d6-6fe2-296a-5715-ccf1e3538dc8" testName="TestAdditionCommandDisabled_WithInvalidNumbers" computerName="ADAM-PC" duration="00:00:00.0661478" startTime="2012-04-15T16:03:35.5166452+10:00" endTime="2012-04-15T16:03:38.3218056+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4c5038c-4bcf-4da8-8404-f8e10b715d65">
+    </UnitTestResult>
+    <UnitTestResult executionId="11f68e49-52f8-4e1b-91ee-6966f091e744" testId="138bd233-f409-afb6-2c2f-d62a1e0fccef" testName="TestAdditionCommandEnabled_WithValidPositiveValues" computerName="ADAM-PC" duration="00:00:00.0003825" startTime="2012-04-15T16:03:38.3318062+10:00" endTime="2012-04-15T16:03:38.3448069+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="11f68e49-52f8-4e1b-91ee-6966f091e744">
+    </UnitTestResult>
+    <UnitTestResult executionId="831e1e53-8063-4714-9f50-d50312772bef" testId="24f9e34f-d056-2721-ab8a-4c68691c1846" testName="TestAdditionCommand" computerName="ADAM-PC" duration="00:00:00.0025787" startTime="2012-04-15T16:03:38.3698083+10:00" endTime="2012-04-15T16:03:38.3778088+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="831e1e53-8063-4714-9f50-d50312772bef">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce432930-c20e-4841-99fb-52c3b81e6b6d" testId="2dbf79d8-7244-9436-4250-20c8a1be489b" testName="TestConstruction_WithoutCalculator" computerName="ADAM-PC" duration="00:00:16.2499294" startTime="2012-04-15T16:03:38.3898095+10:00" endTime="2012-04-15T16:03:54.6397389+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce432930-c20e-4841-99fb-52c3b81e6b6d">
+    </UnitTestResult>
+    <UnitTestResult executionId="39125051-2e91-47c0-986d-f8cf312daa5c" testId="503c4091-9ed5-3dec-8e98-ede792f25745" testName="TestAdditionCommand_WithBoundaries" computerName="ADAM-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39125051-2e91-47c0-986d-f8cf312daa5c">
+    </UnitTestResult>
+    <UnitTestResult executionId="806a34b5-a11d-4189-b6f1-ea9c5af3dd39" testId="b21a49f0-d04f-cacf-eb75-b8257126d6c9" testName="Seykota140_20Test" computerName="ADAM-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="806a34b5-a11d-4189-b6f1-ea9c5af3dd39">
+    </UnitTestResult>
+    <UnitTestResult executionId="455a90d0-bcff-46e1-aab6-11f87087ed3f" testId="b52d8f4e-6f0d-1321-ff8a-7a39a5429af3" testName="TestAdditionCommandEnabled_WithValidNegativeValues" computerName="ADAM-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="455a90d0-bcff-46e1-aab6-11f87087ed3f">
+    </UnitTestResult>
+    <UnitTestResult executionId="6fa8e956-b671-4fc3-943b-b2f258da1f75" testId="ba59234d-30eb-5b19-7baa-85a1f028d6a4" testName="TestAdditionCommandDisabled_WithInvalidSecondNumber" computerName="ADAM-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6fa8e956-b671-4fc3-943b-b2f258da1f75">
+    </UnitTestResult>
+    <UnitTestResult executionId="8ecf8eb5-6c83-4694-ac2e-bd09cbaff06d" testId="f038c242-0a70-f5f4-65dc-ba93955f2451" testName="TestAdditionCommandDisabled_WithInvalidFirstNumber" computerName="ADAM-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ecf8eb5-6c83-4694-ac2e-bd09cbaff06d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

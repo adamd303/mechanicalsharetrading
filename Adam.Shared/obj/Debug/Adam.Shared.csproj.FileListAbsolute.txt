@@ -1,0 +1,4 @@
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\bin\x86\Debug\Adam.Shared.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\bin\x86\Debug\Adam.Shared.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\obj\Debug\Adam.Shared.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\obj\Debug\Adam.Shared.pdb

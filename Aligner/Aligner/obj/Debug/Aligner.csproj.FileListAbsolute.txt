@@ -1,0 +1,15 @@
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\bin\Debug\Aligner.exe.config
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\bin\Debug\Aligner.exe
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\bin\Debug\Aligner.pdb
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\obj\Debug\Aligner.exe
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\obj\Debug\Aligner.pdb
+C:\Users\User1\Documents\Visual Studio 2012\Projects\Aligner\Aligner\obj\Debug\Aligner.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Shares\Stuff\Aligner\Aligner\bin\Debug\Aligner.exe.config
+C:\Users\Adam\Desktop\Shares\Stuff\Aligner\Aligner\obj\Debug\Aligner.exe
+C:\Users\Adam\Desktop\Shares\Stuff\Aligner\Aligner\obj\Debug\Aligner.pdb
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\bin\Debug\Aligner.exe.config
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\obj\Debug\Aligner.exe
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\obj\Debug\Aligner.pdb
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\bin\Debug\Aligner.exe
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\bin\Debug\Aligner.pdb
+C:\Users\Adam\MechanicalShareTrading\Aligner\Aligner\obj\Debug\Aligner.csprojResolveAssemblyReference.cache

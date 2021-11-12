@@ -1,0 +1,26 @@
+Identifier, Top/Bottom Identifier, Entry Date, Entry Price, Entry Reason, Entry Additional Reason, Long/Short, No Contracts, Exit Date, Exit Price, Exit Reason, Profit/Loss
+0, 1, 19970103, 110.969, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19970114, 110.906 ,ProfitProtection1, 5.90625
+1, 3, 19970124, 110.07283333333333333333333333, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19970131, 110.3335 ,ProfitProtection2, -24.437500000000000000000000312
+2, 4, 19970203, 111.313, DefinateMainTrendChangeToUp, None, Long, 3, 19970220, 112.563 ,ProfitProtection1, 117.18750
+3, 5, 19970307, 108.938, DefinateMainTrendChangeToDown, None, Short, 3, 19970319, 109.04183333333333333333333333 ,ProfitProtection2, -9.734374999999999999999999688
+4, 9, 19970320, 108.219, MainTrendDownPyramid, ExceedLo, Short, 3, 19970325, 108.9585 ,ProfitProtection2, -69.328125
+5, 9, 19970326, 108.5315, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19970415, 107.188 ,ProfitProtection1, 125.953125
+6, 12, 19970417, 107.406, DefinateMainTrendChangeToUp, None, Long, 3, 19970424, 107.0835 ,ProfitProtection1, -30.234375
+7, 14, 19970429, 107.12516666666666666666666667, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19970507, 108.938 ,ProfitProtection1, 169.95312499999999999999999969
+8, 16, 19970509, 109.65616666666666666666666667, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19970520, 109.2085 ,ProfitProtection1, -41.968750000000000000000000312
+9, 17, 19970527, 108.531, DefinateMainTrendChangeToDown, None, Short, 3, 19970529, 108.938 ,ProfitProtection1, -38.15625
+10, 18, 19970606, 110.281, DefinateMainTrendChangeToUp, None, Long, 3, 19970625, 111.719 ,ProfitProtection1, 134.81250
+11, 20, 19970702, 111.79183333333333333333333333, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19970721, 113.625 ,ProfitProtection1, 171.85937500000000000000000031
+12, 22, 19970722, 114.50016666666666666666666667, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19970801, 114.563 ,DefinateMainTrendChangeToDown, 5.8906249999999999999999996875
+13, 25, 19970801, 114.563, DefinateMainTrendChangeToDown, None, Short, 3, 19970813, 113.07316666666666666666666667 ,ProfitProtection2, 139.67187499999999999999999969
+14, 29, 19970821, 113.30216666666666666666666667, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19970827, 112.4165 ,ProfitProtection2, 83.03125000000000000000000031
+15, 31, 19970905, 112.56283333333333333333333333, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19970912, 113.219 ,ProfitProtection1, -61.515625000000000000000000312
+16, 32, 19970916, 113.50, DefinateMainTrendChangeToUp, None, Long, 3, 19970925, 115.344 ,ProfitProtection1, 172.87500
+17, 34, 19971001, 115.87516666666666666666666667, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19971008, 116.55216666666666666666666667 ,ProfitProtection1, 63.468750000000000000000000000
+18, 35, 19971009, 115.125, DefinateMainTrendChangeToDown, None, Short, 3, 19971016, 115.9685 ,ProfitProtection2, -79.078125
+19, 37, 19971017, 115.19783333333333333333333333, MainTrendDownPyramid, PossibleMinorChangeToDown, Short, 3, 19971023, 115.25016666666666666666666667 ,ProfitProtection2, -4.9062500000000000000000006250
+20, 36, 19971028, 118.563, DefinateMainTrendChangeToUp, None, Long, 3, 19971104, 117.313 ,ProfitProtection1, -117.18750
+21, 38, 19971106, 117.9585, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19971124, 118.594 ,ProfitProtection1, 59.578125
+22, 38, 19971203, 119.5, MainTrendUpPyramid, ExceedHi, Long, 3, 19971205, 118.719 ,ProfitProtection1, -73.21875
+23, 38, 19971211, 119.875, MainTrendUpPyramid, PossibleMinorChangeToUp, Long, 3, 19971229, 120.531 ,ProfitProtection1, 61.50000
+Total Profit and Loss = 761.9218749999999999999999985

@@ -1,0 +1,5 @@
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectServer\bin\Debug\SelectServer.exe.config
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectServer\bin\Debug\SelectServer.exe
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectServer\bin\Debug\SelectServer.pdb
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectServer\obj\Debug\SelectServer.exe
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectServer\obj\Debug\SelectServer.pdb

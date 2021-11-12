@@ -1,0 +1,11 @@
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.ViewModel.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.ViewModel.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.Model.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.ViewUtil.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.ViewUtil.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\bin\x86\Debug\Adam.Trading.Mechanical.Model.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\obj\Debug\Adam.Trading.Mechanical.ViewModel.Properties.Resources.resources
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\obj\Debug\Adam.Trading.Mechanical.ViewModel.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\obj\Debug\Adam.Trading.Mechanical.ViewModel.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\obj\Debug\Adam.Trading.Mechanical.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\ViewModel\obj\Debug\Adam.Trading.Mechanical.ViewModel.csproj.GenerateResource.Cache

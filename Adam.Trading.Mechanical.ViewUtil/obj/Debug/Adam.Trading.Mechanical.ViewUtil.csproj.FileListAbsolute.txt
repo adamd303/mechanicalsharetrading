@@ -1,0 +1,4 @@
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.ViewUtil\bin\x86\Debug\Adam.Trading.Mechanical.ViewUtil.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.ViewUtil\bin\x86\Debug\Adam.Trading.Mechanical.ViewUtil.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.ViewUtil\obj\Debug\Adam.Trading.Mechanical.ViewUtil.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Trading.Mechanical.ViewUtil\obj\Debug\Adam.Trading.Mechanical.ViewUtil.pdb

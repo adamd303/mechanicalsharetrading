@@ -1,0 +1,212 @@
+﻿<!-- Copyright (c) 2012, Adam Duval Kangaroo Point South 4169, Australia.
+     All Rights Reserved. -->
+<UserControl x:Class="Adam.Trading.Mechanical.View.SubViews.KrauseGannView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:prop="clr-namespace:Adam.Trading.Mechanical.View.Properties"
+             xmlns:viewModel="clr-namespace:Adam.Trading.Mechanical.ViewModel;assembly=Adam.Trading.Mechanical.ViewModel"
+             xmlns:viewUtil="clr-namespace:Adam.Trading.Mechanical.ViewUtil;assembly=Adam.Trading.Mechanical.ViewUtil"
+             mc:Ignorable="d"
+             MinHeight="200"
+             MaxHeight="400"
+             MinWidth="400"
+             MaxWidth="800"
+             Margin="3">
+    <UserControl.Resources>
+        <ObjectDataProvider x:Key="krauseGannViewModel" ObjectType="{x:Type viewModel:KrauseGannViewModel}">
+            <ObjectDataProvider.ConstructorParameters>
+                <viewUtil:FilePathProvider/>
+            </ObjectDataProvider.ConstructorParameters>
+        </ObjectDataProvider>
+    </UserControl.Resources>
+    <StackPanel>
+        <Grid Height="Auto">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="7*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*" />
+                <ColumnDefinition Width="200*" />
+                <ColumnDefinition Width="200*" />
+                <ColumnDefinition Width="200*" />
+                <ColumnDefinition Width="7*" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseEntryStopRetracement}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="0" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text="{Binding KrauseEntryStopRetracement, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+            <Label Grid.Row="1" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseEntryStopExceedHiLo}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="1" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text="{Binding KrauseEntryStopExceedHiLo, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+            <Label Grid.Row="2" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseRetracementStop}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="2" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text="{Binding KrauseRetracementFraction, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+            <CheckBox Grid.Row="2" Grid.Column="3"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Center" 
+                      Content="{x:Static prop:Resources.KrauseUseRetracementStop}"
+                      IsChecked="{Binding KrauseUseRetracementStop, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Grid.Row="3" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseInputFile}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="2">
+                <TextBox MinWidth="100" 
+                         MaxWidth="200"
+                         Text ="{Binding InputFile, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"
+                         HorizontalAlignment="Left"
+                         VerticalAlignment="Center"
+    	                 IsReadOnly="True" />
+                <Button MinWidth="24"
+                        MaxWidth="48"
+                        Opacity="0.8"
+                        HorizontalAlignment="Left"
+                        HorizontalContentAlignment="Center"
+                        VerticalAlignment="Center"
+                        ToolTip="{x:Static prop:Resources.KrauseWindow_File_ToolTip}"
+                        MouseDoubleClick="FileSelector_Clicked">
+                    <Image Source="../Icons/Browse.png" Height="16" Width="16"/>
+                </Button>
+            </StackPanel>
+            <Label Grid.Row="4" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseDollarsPerPoint}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="4" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text ="{Binding DollarsPerPoint, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"/>
+            <Label Grid.Row="5" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseSkidPoints}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="5" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text ="{Binding SkidPoints, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"/>
+            <Label Grid.Row="6" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseStartingEquity}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="6" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text ="{Binding StartingEquity, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"/>            
+            <Label Grid.Row="7" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseNoContracts}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="7" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     Text="{Binding KrauseNoContracts, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+            <CheckBox Grid.Row="7" Grid.Column="3"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Center" 
+                      Content="{x:Static prop:Resources.KrauseFixContracts}"
+                      IsChecked="{Binding KrauseFixContracts, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Grid.Row="8" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.TickSize}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="8" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center" 
+                     Text="{Binding TickSize, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+            <Label Grid.Row="9" Grid.Column="1" 
+		           HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"
+	               Content="{x:Static prop:Resources.KrauseBenchmarkReturn}"
+	               HorizontalContentAlignment="Left" 
+                   MinWidth="100"
+                   MaxWidth="200"/>
+            <TextBox Grid.Row="9" Grid.Column="2" 
+                     MinWidth="100" 
+                     MaxWidth="200"
+		             HorizontalAlignment="Left" 
+                     VerticalAlignment="Center" 
+                     Text="{Binding BenchmarkReturn, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+        </Grid>
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="2"
+                    MinWidth="70" 
+                    MaxWidth="140"
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center" 
+                    Content="{x:Static prop:Resources.KrauseCalculate}" 
+	                VerticalContentAlignment="Center"
+                    Command="{Binding CalculateCommand}"/>
+            <TextBlock Margin="2" Width="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding ErrorString}" Foreground="Red"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

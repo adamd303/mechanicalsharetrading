@@ -1,0 +1,33 @@
+Each Octave has a hit for Start Date 16/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 17/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 18/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 19/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 20/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 21/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 22/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 23/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 24/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 25/01/2001 12:00:00 PM, length = 240
+Each Octave has a hit for Start Date 26/01/2001 12:00:00 PM, length = 240
+
+Each Octave has a unique hit for Start Date 16/01/2001 12:00:00 PM, length = 240, error = 5
+Each Octave has a unique hit for Start Date 17/01/2001 12:00:00 PM, length = 240, error = 4
+Each Octave has a unique hit for Start Date 18/01/2001 12:00:00 PM, length = 240, error = 3
+Each Octave has a unique hit for Start Date 19/01/2001 12:00:00 PM, length = 240, error = 2
+Each Octave has a unique hit for Start Date 20/01/2001 12:00:00 PM, length = 240, error = 1
+Each Octave has a unique hit for Start Date 21/01/2001 12:00:00 PM, length = 240, error = 0
+Each Octave has a unique hit for Start Date 22/01/2001 12:00:00 PM, length = 240, error = 1
+Each Octave has a unique hit for Start Date 23/01/2001 12:00:00 PM, length = 240, error = 2
+Each Octave has a unique hit for Start Date 24/01/2001 12:00:00 PM, length = 240, error = 3
+Each Octave has a unique hit for Start Date 25/01/2001 12:00:00 PM, length = 240, error = 4
+Each Octave has a unique hit for Start Date 26/01/2001 12:00:00 PM, length = 240, error = 5
+
+Hit with minimum error, start date = 21/01/2001, length = 240, mean error = 0
+Octave Date = 21/01/2001, Hit Date = 21/01/2001, days diff. = 0
+Octave Date = 20/02/2001, Hit Date = 20/02/2001, days diff. = 0
+Octave Date = 22/03/2001, Hit Date = 22/03/2001, days diff. = 0
+Octave Date = 11/04/2001, Hit Date = 11/04/2001, days diff. = 0
+Octave Date = 21/05/2001, Hit Date = 21/05/2001, days diff. = 0
+Octave Date = 30/06/2001, Hit Date = 30/06/2001, days diff. = 0
+Octave Date = 19/08/2001, Hit Date = 19/08/2001, days diff. = 0
+Octave Date = 18/09/2001, Hit Date = 18/09/2001, days diff. = 0

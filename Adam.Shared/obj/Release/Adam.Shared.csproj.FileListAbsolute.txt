@@ -1,0 +1,5 @@
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\bin\Release\Adam.Shared.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\bin\Release\Adam.Shared.pdb
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\obj\Release\Adam.Shared.dll
+C:\Users\Adam\MechanicalShareTrading\Adam.Shared\obj\Release\Adam.Shared.pdb

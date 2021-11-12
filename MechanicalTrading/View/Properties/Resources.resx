@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppError" xml:space="preserve">
+    <value>Error!</value>
+    <comment>The Error Message for the App</comment>
+  </data>
+  <data name="AppUnhandledExceptionMessage" xml:space="preserve">
+    <value>An Unexpected Error has Occurred. You may continue working or shutdown.</value>
+    <comment>App DispatcherUnhandledException Error Message</comment>
+  </data>
+  <data name="ChartControlMaxDate" xml:space="preserve">
+    <value>End Date</value>
+    <comment>The maximum date for the chart</comment>
+  </data>
+  <data name="ChartControlMinDate" xml:space="preserve">
+    <value>Start Date</value>
+    <comment>The minimum date for the chart</comment>
+  </data>
+  <data name="Gann2DayBenchmarkReturn" xml:space="preserve">
+    <value>Benchmark Return</value>
+    <comment>The benchmark return</comment>
+  </data>
+  <data name="Gann2DayCalculate" xml:space="preserve">
+    <value>Calculate</value>
+    <comment>Calculate the Gann 2 Day System</comment>
+  </data>
+  <data name="Gann2DaySwingSystem" xml:space="preserve">
+    <value>Gann Swing</value>
+    <comment>My Two Day Swing system based on W.D. Gann's Commodities Course</comment>
+  </data>
+  <data name="Gann2DaySwingSystem_Show_Tooltip" xml:space="preserve">
+    <value>My Two Day Swing system based on W.D. Gann's Commodities Course</value>
+  </data>
+  <data name="Gann2DaySwingWindow_Title" xml:space="preserve">
+    <value>Gann 2 Day Swing Charts</value>
+    <comment>The Title for the Gann 2 Day Swing System Window</comment>
+  </data>
+  <data name="Gann2DayWindow_File_ToolTip" xml:space="preserve">
+    <value>Click to open file browser</value>
+    <comment>Open a file browser to select the input file</comment>
+  </data>
+  <data name="GannDollarsPerPoint" xml:space="preserve">
+    <value>Dollars/Point</value>
+    <comment>The number of dollars per unit of price movement</comment>
+  </data>
+  <data name="GannEntryStopExceedHiLo" xml:space="preserve">
+    <value>Entry Stop Hi/Lo</value>
+    <comment>The Entry Stop Pyramid by exceeding the Hi/Lo for the Gann 2 Day Swing System</comment>
+  </data>
+  <data name="GannEntryStopRetracement" xml:space="preserve">
+    <value>Entry Stop Retracement</value>
+    <comment>The Entry Stop Pyramid for Retracement for the Gann 2 Day Swing System</comment>
+  </data>
+  <data name="GannExitStop" xml:space="preserve">
+    <value>Exit Stop</value>
+    <comment>The Exit Stop for the Gann 2 Day Swing System</comment>
+  </data>
+  <data name="GannInputFile" xml:space="preserve">
+    <value>Input File</value>
+    <comment>The input file name</comment>
+  </data>
+  <data name="GannNoContractsCalc" xml:space="preserve">
+    <value>No. Contracts Calc.</value>
+    <comment>The calculation for the number of contracts based on open profit or closing balance</comment>
+  </data>
+  <data name="GannPercentRisk" xml:space="preserve">
+    <value>Percent Risk</value>
+    <comment>The percent risked</comment>
+  </data>
+  <data name="GannSkidPoints" xml:space="preserve">
+    <value>Skid Points</value>
+    <comment>The number of points for skid on buy/sell orders</comment>
+  </data>
+  <data name="GannStartingEquity" xml:space="preserve">
+    <value>Starting Equity</value>
+    <comment>The starting equity</comment>
+  </data>
+  <data name="GannUseATR" xml:space="preserve">
+    <value>Use ATR</value>
+    <comment>Use ATR for Stop Calculation</comment>
+  </data>
+  <data name="GannUseCurrentEquity" xml:space="preserve">
+    <value>Use Current Equity</value>
+    <comment>Use current equity rather than closing balance to calculate the number of contracts</comment>
+  </data>
+  <data name="KrauseBenchmarkReturn" xml:space="preserve">
+    <value>Benchmark Return</value>
+    <comment>The benchmark return</comment>
+  </data>
+  <data name="KrauseCalculate" xml:space="preserve">
+    <value>Calculate</value>
+    <comment>Calculate the Gann 2 Day System</comment>
+  </data>
+  <data name="KrauseDollarsPerPoint" xml:space="preserve">
+    <value>Dollars/Point</value>
+    <comment>The number of dollars per unit of price movement</comment>
+  </data>
+  <data name="KrauseEntryStopExceedHiLo" xml:space="preserve">
+    <value>Entry Stop Hi/Lo</value>
+    <comment>The Entry Stop Pyramid by exceeding the Hi/Lo for the Krause Swing System</comment>
+  </data>
+  <data name="KrauseEntryStopRetracement" xml:space="preserve">
+    <value>Entry Stop Retracement</value>
+    <comment>The Entry Stop Pyramid for Retracement for the Krause Swing System</comment>
+  </data>
+  <data name="KrauseFixContracts" xml:space="preserve">
+    <value>Fix</value>
+    <comment>Make the number of Contracts constant no matter how much the account balance changes.</comment>
+  </data>
+  <data name="KrauseInputFile" xml:space="preserve">
+    <value>Input File</value>
+    <comment>The input file name</comment>
+  </data>
+  <data name="KrauseNoContracts" xml:space="preserve">
+    <value>No. Contracts/$10000</value>
+    <comment>The Number of Contracts for Krause Gann</comment>
+  </data>
+  <data name="KrauseRetracementStop" xml:space="preserve">
+    <value>Retracement Stop</value>
+    <comment>The Retracement Stop Fraction</comment>
+  </data>
+  <data name="KrauseSkidPoints" xml:space="preserve">
+    <value>Skid Points</value>
+    <comment>The number of points for skid on buy/sell orders</comment>
+  </data>
+  <data name="KrauseStartingEquity" xml:space="preserve">
+    <value>Starting Equity</value>
+    <comment>The starting equity</comment>
+  </data>
+  <data name="KrauseSystem" xml:space="preserve">
+    <value>Krause Basic System</value>
+    <comment>Robert Krause's Two Day Swing System from his book</comment>
+  </data>
+  <data name="KrauseSystem_Show_Tooltip" xml:space="preserve">
+    <value>Robert Krause's Basic Two Day Swing System from his book</value>
+  </data>
+  <data name="KrauseUseATR" xml:space="preserve">
+    <value>Use ATR</value>
+    <comment>Use ATR for Stop Calculation</comment>
+  </data>
+  <data name="KrauseUseRetracementStop" xml:space="preserve">
+    <value>Use</value>
+    <comment>Use the Krause Retracement Stop</comment>
+  </data>
+  <data name="KrauseWindow_File_ToolTip" xml:space="preserve">
+    <value>Click to open file browser</value>
+    <comment>Open a file browser to select the input file</comment>
+  </data>
+  <data name="KrauseWindow_Title" xml:space="preserve">
+    <value>Krause Basic System</value>
+    <comment>The Title for the Krause Gann Two Day Swing Chart Window</comment>
+  </data>
+  <data name="MainWindowTitle" xml:space="preserve">
+    <value>Adam's Mechanical Trading Systems Application</value>
+    <comment>Adam's Mechanical Trading Systems Application</comment>
+  </data>
+  <data name="SupportResistanceBenchmarkReturn" xml:space="preserve">
+    <value>Benchmark Return</value>
+    <comment>The benchmark return</comment>
+  </data>
+  <data name="SupportResistanceCalculate" xml:space="preserve">
+    <value>Calculate</value>
+    <comment>Calculate the Support Resistance System</comment>
+  </data>
+  <data name="SupportResistanceInputFile" xml:space="preserve">
+    <value>Input File</value>
+    <comment>The input file name</comment>
+  </data>
+  <data name="SupportResistanceLongTerm" xml:space="preserve">
+    <value>Long Term Support and Resistance Days</value>
+    <comment>Long Term Support and Resistance Days</comment>
+  </data>
+  <data name="SupportResistancePercentRisk" xml:space="preserve">
+    <value>Percent Risk</value>
+    <comment>The percent risked</comment>
+  </data>
+  <data name="SupportResistanceShortTerm" xml:space="preserve">
+    <value>Short Term Support and Resistance Days</value>
+    <comment>Short Term Support and Resistance Days</comment>
+  </data>
+  <data name="SupportResistanceSkidFraction" xml:space="preserve">
+    <value>Skid Fraction</value>
+    <comment>The skid fraction</comment>
+  </data>
+  <data name="SupportResistanceStartingEquity" xml:space="preserve">
+    <value>Starting Equity</value>
+    <comment>The starting equity</comment>
+  </data>
+  <data name="SupportResistanceSystem" xml:space="preserve">
+    <value>Sekykota Support Resistance</value>
+    <comment>Ed Sekykota's Support and Resistance System from his Web Site</comment>
+  </data>
+  <data name="SupportResistanceSystem_Show_Tooltip" xml:space="preserve">
+    <value>Ed Sekykota's Support and Resistance System from his Web Site</value>
+  </data>
+  <data name="SupportResistanceWindow_File_ToolTip" xml:space="preserve">
+    <value>Click to open file browser</value>
+    <comment>Open a file browser to select the input file</comment>
+  </data>
+  <data name="SupportResistanceWindow_Title" xml:space="preserve">
+    <value>Sekyota Support and Resistance</value>
+    <comment>The Title for the Seykota Support and Resistance Window</comment>
+  </data>
+  <data name="TickSize" xml:space="preserve">
+    <value>Tick Size</value>
+    <comment>The Tick Size</comment>
+  </data>
+</root>

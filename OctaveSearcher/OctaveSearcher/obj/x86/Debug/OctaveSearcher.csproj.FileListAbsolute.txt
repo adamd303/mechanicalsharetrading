@@ -1,0 +1,12 @@
+C:\Users\Adam\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.exe.config
+C:\Users\Adam\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.exe
+C:\Users\Adam\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.pdb
+C:\Users\Adam\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.exe
+C:\Users\Adam\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.exe.config
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\bin\Debug\OctaveSearcher.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.csproj.CoreCompileInputs.cache
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.exe
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.pdb
+C:\Users\adamd\OneDrive\MechanicalShareTrading\OctaveSearcher\OctaveSearcher\obj\x86\Debug\OctaveSearcher.csprojAssemblyReference.cache

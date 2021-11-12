@@ -1,0 +1,5 @@
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\bin\Release\Adam.Trading.Mechanical.Model.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\bin\Release\Adam.Trading.Mechanical.Model.pdb
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\obj\Release\Adam.Trading.Mechanical.Model.dll
+C:\Users\Adam\MechanicalShareTrading\MechanicalTrading\Model\obj\Release\Adam.Trading.Mechanical.Model.pdb

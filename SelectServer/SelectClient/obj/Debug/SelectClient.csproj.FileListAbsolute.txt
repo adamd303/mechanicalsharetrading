@@ -1,0 +1,6 @@
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\bin\Debug\SelectClient.exe.config
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\bin\Debug\SelectClient.exe
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\bin\Debug\SelectClient.pdb
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\obj\Debug\SelectClient.csprojResolveAssemblyReference.cache
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\obj\Debug\SelectClient.exe
+C:\Users\Adam\MechanicalShareTrading\SelectServer\SelectClient\obj\Debug\SelectClient.pdb

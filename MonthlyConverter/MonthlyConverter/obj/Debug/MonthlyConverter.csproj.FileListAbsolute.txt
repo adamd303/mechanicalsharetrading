@@ -1,0 +1,16 @@
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\bin\Debug\MonthlyConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\bin\Debug\MonthlyConverter.pdb
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\FileSelector.baml
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\FileSelector.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\Window1.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\App.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter_MarkupCompile.cache
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter_MarkupCompile.lref
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\Window1.baml
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.g.resources
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.pdb
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\MonthlyConverter\MonthlyConverter\obj\Debug\MonthlyConverter.csproj.GenerateResource.Cache
