@@ -11,6 +11,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <StartArguments>DOWDATA_G.csv</StartArguments>
+    <StartArguments>tcx.csv</StartArguments>
   </PropertyGroup>
 </Project>

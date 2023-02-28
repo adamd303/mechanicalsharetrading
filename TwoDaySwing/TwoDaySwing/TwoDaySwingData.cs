@@ -434,16 +434,39 @@ namespace TwoDaySwing
                     }
                 }
                 // Write the headers to the output file
-                _outputFile.WriteLine("Date, Minor Trend, Major Trend, Pivot Price, Interpolated Pivot Price");
+                _outputFile.WriteLine("Date, Open, High, Low, Close, Volume, Minor Trend, Major Trend, Pivot Price, Interpolated Pivot Price, Cumulative Volume");
+                decimal cumulativeVolume = 0;
                 foreach (BarData ohlc in _outputOHLC)
                 {
+                    bool resetVolume = false;
+                    if (!ohlc.RealPivotPrice.HasValue && ohlc.Volume.HasValue)
+                    {
+                        cumulativeVolume += ohlc.Volume.Value;
+                    }
+                    else if (ohlc.RealPivotPrice.HasValue)
+                    {
+                        // Still accumulate the volume
+                        cumulativeVolume += ohlc.Volume.Value;
+                        // Set the cumulative volume to zero to start accumulating volume for next wave
+                        resetVolume = true;
+                    }
                     // Write the data to the output file
                     _outputFile.WriteLine(ohlc.Date.ToString("dd/MM/yyyy") + ", " +
+                                          ohlc.Open.ToString() + ", " +
+                                          ohlc.High.ToString() + ", " +
+                                          ohlc.Low.ToString() + ", " +
+                                          ohlc.Close.ToString() + ", " +
+                                          ohlc.Volume.ToString() + ", " +
                                           ohlc.MinorTrend.ToString() + ", " +
                                           ohlc.MajorTrend.ToString() + ", " +
                                           ohlc.RealPivotPrice.ToString() + ", " +
                                           ohlc.InterpolatedPivotPrice.ToString() + ", " +
-                                          ohlc.DaysUpDown.ToString());
+                                          ohlc.DaysUpDown.ToString() + ", " +
+                                          (ohlc.Open.HasValue ? cumulativeVolume.ToString() : string.Empty));  // Only print the cumulative volume on trading days
+                    if (resetVolume)
+                    {
+                        cumulativeVolume = 0;
+                    }
                 }
             }
             else
