@@ -1,0 +1,9 @@
+
+*.vsidx
+*.lock
+*.csv
+*.csv
+*.exe
+*.pdb
+*.cache
+*.dll

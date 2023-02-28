@@ -17,3 +17,11 @@ C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\D
 C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.exe
 C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.pdb
 C:\Users\adamd\OneDrive\MechanicalShareTrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csproj.AssemblyReference.cache
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe.config
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.exe
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\bin\Debug\TwoDaySwing.pdb
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csproj.AssemblyReference.cache
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csproj.SuggestedBindingRedirects.cache
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.csproj.CoreCompileInputs.cache
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.exe
+C:\Source\repos\mechanicalsharetrading\TwoDaySwing\TwoDaySwing\obj\x86\Debug\TwoDaySwing.pdb
